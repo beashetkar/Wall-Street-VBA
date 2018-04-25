@@ -2,7 +2,7 @@
 
 This analysis was made on  VBA scripting to analyze real stock market data. 
 
-![Wall-Street] (images/stockmarket.jpg)
+![Wall-Street-VBA] (images/stockmarket.jpg)
 
 ### Files
 
